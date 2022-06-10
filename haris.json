@@ -1,8 +1,79 @@
 {
-    "fullName":"Mohammad Haris Zia",
-    "email":"mohammadhariszia",
-    "website":"https://github.com/MohammadHarisZia",
-    "address":"House no 135, Street no 11 Phase 7 Bahria Town",
-    "profilePic":"https://avatars.githubusercontent.com/u/63912301?v=4",
-    "SocialMedia":"https://github.com/MohammadHarisZia"
+    "AboutMe":
+        {
+            "fullName":"Mohammad Haris Zia",
+            "email":"mohammadhariszia",
+            "website":"https://github.com/MohammadHarisZia",
+            "address":"House no 135, Street no 11 Phase 7 Bahria Town",
+            "profilePic":"https://avatars.githubusercontent.com/u/63912301?v=4",
+            "SocialMedia":"https://github.com/MohammadHarisZia"
+        },
+    "Work Experience":
+        [
+            {
+                "Brainnest":{
+                    "Title":"Project Manager Scrum Master",
+                    "Company":"Brainnest",
+                    "Date":"Mar 2022-Apr 2022",
+                    "Location":"Bremen Germany"
+                }
+            },
+            {
+                "RebootEra":{
+                    "Title":"Frontend Developer | UI/UX Designer",
+                    "Company":"Reboot Era",
+                    "Date":"Jul 2021-Sep 2021",
+                    "Location":"Dubai "
+                }
+            },
+            {
+                "Werrick":{
+                    "Title":"Quality/Environmental Management Intern ",
+                    "Company":"Werrick Pharmaceuticals",
+                    "Date":"Jan 2021-Feb 2021",
+                    "Location":"Islamabad Pakistan"
+                }
+            }
+        ],
+    "Education":
+        [
+            {
+                "University":{
+                    "name":"Comsats University Islamabad",
+                    "years":"2019-2023",
+                    "Grade":"3.47 CGPA" 
+                }
+            },
+            {
+                "HighSchool":{
+                    "name":"Fauji Foundation College",
+                    "years":"2017-2019",
+                    "Grade":"807/1100" 
+                }
+            },
+            {
+             "School":{
+                 "name":"Bahria Foundation College",
+                 "years":"2015-2017",
+                 "Grade":"982/1050" 
+             }
+            }        
+        ],
+    "Skill":
+        [
+            "Project Management",
+            "Scrum",
+            "Web Developement",
+            "Mobile Development",
+            "Java Networking",
+            "C++ Coding",
+            "TensorFlow Developement",
+            "Figma UX Designer",
+            "Microsoft Office"
+        ],
+    "Contact US":{
+        "email":"mhzxbox360@gmail.com",
+        "phoneNumber":"03315337160",
+        "CNIC":"37405-5844306-7"
+    }    
 }
